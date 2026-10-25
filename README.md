@@ -14,3 +14,4 @@ CMSC 320 project studying the association between daily precipitation and report
 - Weather data should be merged with the county, year, and month
 - Crashes in 2020 are 18% lower than those in 2019 (less cars on the road, not weather related)
 - Large counties need to be taken into consideration
+- All crash data, raw and cleaned, is in the marylnad_crash_data folder
