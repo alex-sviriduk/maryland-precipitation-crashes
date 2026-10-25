@@ -1,5 +1,4 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
-CrashMap_*.csv
 MD_crashes_2019_2023.csv
