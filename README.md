@@ -6,15 +6,15 @@ CMSC 320 project studying the association between daily precipitation and report
 
 **How I collected the data: Each dashboard was downloaded one year at a time, then stacked together and cleaned. 
 
-**Files to use: crash_data/md_crashes_by_county_month.csv -> this file holds all the cleaned crash data for each country by the month in the year over the range
+**Files to use: crash_data/md_crashes_by_county_month.csv -> this file holds all the cleaned crash data for each county by the month in the year over the range
 
-**Charts: crash_charts has the total crashes by county and a motnhly crash chart for each country
+**Charts: crash_charts has the total crashes by county and a motnhly crash chart for each county
 
 **Notes:
 - Weather data should be merged with the county, year, and month
 - Crashes in 2020 are 18% lower than those in 2019 (less cars on the road, not weather related)
 - Large counties need to be taken into consideration
-- All crash data, raw and cleaned, is in the maryland_crash_data folder
+- All crash data, raw and cleaned, is in maryland_crash_data/cleaned/md_crashes_by_county_month.csv
 
 Category1:Population vs. Crashes Analysis
 
