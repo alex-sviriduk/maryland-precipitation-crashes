@@ -18,7 +18,7 @@ CMSC 320 project studying the association between daily precipitation and report
 
 Category1:Population vs. Crashes Analysis
 
-- Graph is in the crash_data file
+- Graph is in the population_analysis file
 
 We compared each county's total crashes (2019-2023) with its average population over the same years using Pearson and Spearman correlation.
 
